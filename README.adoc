@@ -1,7 +1,7 @@
 = 📝 AULAJA
-: icons: font
-: toc: left
-: toclevels: 2
+:icons: font
+:toc: left
+:toclevels: 2
 
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
 Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e Vitor Eduardo Eleoterio. 
