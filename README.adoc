@@ -9,9 +9,10 @@ Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e V
 == 🎯 Sobre o Projeto
 Nosso objetivo é desenvolver um aplicativo web com seis telas, voltado para o ambiente escolar. O app será baseado no Google Classroom, porém com algumas modificações para torná-lo mais simples e intuitivo para os usuários.
 
+== 🚀 Recursos
 Nosso protótipo é composto pelas seguintes telas:
 
-Tela de Login: onde o usuário informa seu nome de usuário e senha para acessar o sistema.
+*📱 **Tela de Login:** onde o usuário informa seu nome de usuário e senha para acessar o sistema.
 
 Tela de Cadastro: onde o usuário pode criar uma nova conta, fornecendo nome de usuário, senha e confirmação da senha.
 
