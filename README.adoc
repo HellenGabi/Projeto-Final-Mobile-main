@@ -1,3 +1,7 @@
+= 📝 AULAJA
+
+
+
 Nosso grupo é composto por mim, Vitor Eduardo Eleoterio, Paulo Henrique André e Hellen Gabriela Scarantti. Nosso objetivo é desenvolver um aplicativo web com seis telas, voltado para o ambiente escolar. O app será baseado no Google Classroom, porém com algumas modificações para torná-lo mais simples e intuitivo para os usuários.
 
 Nosso protótipo é composto pelas seguintes telas:
