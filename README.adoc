@@ -6,6 +6,7 @@
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
 Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e Vitor Eduardo Eleoterio. 
 
+== 🎯 Sobre o Projeto
 Nosso objetivo é desenvolver um aplicativo web com seis telas, voltado para o ambiente escolar. O app será baseado no Google Classroom, porém com algumas modificações para torná-lo mais simples e intuitivo para os usuários.
 
 Nosso protótipo é composto pelas seguintes telas:
