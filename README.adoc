@@ -9,7 +9,7 @@ Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e V
 == 📝 Descrição
 AULAJA é um aplicativo simples e intuitivo para o ambiente escolar. Inspirado no Google Classroom, ele mantém as funções principais de gestão de classe, mas com um design mais fácil de usar, tornando a interação entre estudantes, professores e administradores mais prática e eficiente.
 
-== 🎯 Sobre o Projeto
+== 🎯 Objetivo o Projeto
 Nosso objetivo é desenvolver um aplicativo web com seis telas, voltado para o ambiente escolar. O app será baseado no Google Classroom, porém com algumas modificações para torná-lo mais simples e intuitivo para os usuários.
 
 == 🚀 Recursos
