@@ -1,5 +1,3 @@
-![Uhull](uhul.gif)
-
 = 📝 AULAJA
 :icons: font
 :toc: left
@@ -26,3 +24,4 @@ Nosso protótipo é composto pelas seguintes telas:
 
 * 👨🏽👩🏽 **Tela de Pessoas:** mostra diversos cards com os perfis das pessoas cadastradas no aplicativo. Essa tela obterá os dados por meio de uma API que puxa as informações relevantes para a listagem.
 
+image::imagens/exemplo.gif[Exemplo de GIF]
