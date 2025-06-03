@@ -33,5 +33,8 @@ Siga os passos abaixo para executar o projeto em sua máquina local:
 
 
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
-Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e Vitor Eduardo Eleoterio. 
+Nosso grupo é composto por: 
+**Hellen Gabriela Scarantti**
+**Paulo Henrique André**
+**Vitor Eduardo Eleoterio**
 
