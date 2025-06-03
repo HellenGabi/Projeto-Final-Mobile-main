@@ -24,8 +24,10 @@ Nosso protótipo é composto pelas seguintes telas:
 
 * 👨🏽👩🏽 **Tela de Pessoas:** mostra diversos cards com os perfis das pessoas cadastradas no aplicativo. Essa tela obterá os dados por meio de uma API que puxa as informações relevantes para a listagem.
 
-== 📱Screenshots
+== 📱 **Screenshots**
 image::uhul.gif[Exemplo de GIF]
+
+== 🎮 **Como Executar**
 
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
 Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e Vitor Eduardo Eleoterio. 
