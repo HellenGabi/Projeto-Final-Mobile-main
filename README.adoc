@@ -21,9 +21,9 @@ Nosso protótipo é composto pelas seguintes telas:
 
 * 📱 **Tela Principal/Mural:** apresenta o calendário completo, onde o usuário pode visualizar provas e atividades futuras, onde pode ser incrementado. Essa tela utilizará uma API de calendário para integrar e exibir esses dados. Também possui um botão no canto superior esquerdo para retornar à tela principal. Na parte inferior da tela, há três botões: Atividades, Mural e Pessoas.
 
-* 📒 **Tela de Atividades:** exibe uma lista com atividades fictícias. **No canto superior esquerdo há uma seta para retornar à tela principal.**
+* 📒 **Tela de Atividades:** exibe uma lista com atividades fictícias. No canto superior esquerdo há uma seta para retornar à tela principal.
 
-* ✒️ **Tela Detalhes da Atividades:**
+* ✒️ **Tela Detalhes da Atividades:** vai exibir os detalhes das atividades, conforme a atividade que o usuario escolha.
 
 * 👨🏽👩🏽 **Tela de Pessoas:** mostra diversos cards com os perfis das pessoas cadastradas no aplicativo. Essa tela obterá os dados por meio de uma API que puxa as informações relevantes para a listagem.
 
