@@ -30,12 +30,16 @@ image::uhul.gif[Exemplo de GIF]
 == 🎮 **Como Executar**
 Siga os passos abaixo para executar o projeto em sua máquina local:
 
+1. **Clone o repositório**
+
+
 
 
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
 Nosso grupo é composto por: 
 
 *  **Hellen Gabriela Scarantti**
+https://github.com/HellenGabi
 
 *  **Paulo Henrique André**
 https://github.com/paulin3423
