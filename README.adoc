@@ -28,6 +28,9 @@ Nosso protótipo é composto pelas seguintes telas:
 image::uhul.gif[Exemplo de GIF]
 
 == 🎮 **Como Executar**
+Siga os passos abaixo para executar o projeto em sua máquina local:
+
+
 
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
 Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e Vitor Eduardo Eleoterio. 
