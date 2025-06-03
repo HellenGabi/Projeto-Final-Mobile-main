@@ -3,9 +3,6 @@
 :toc: left
 :toclevels: 2
 
-== 🫱🏾‍🫲🏿 Integrantes do Projeto
-Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e Vitor Eduardo Eleoterio. 
-
 == 📝 Descrição
 AULAJAJA é um aplicativo simples e intuitivo para o ambiente escolar. Inspirado no Google Classroom, ele mantém as funções principais de gestão de classe, mas com um design mais fácil de usar, tornando a interação entre estudantes, professores e administradores mais prática e eficiente.
 
@@ -29,3 +26,7 @@ Nosso protótipo é composto pelas seguintes telas:
 
 == 📱Screenshots
 image::uhul.gif[Exemplo de GIF]
+
+== 🫱🏾‍🫲🏿 Integrantes do Projeto
+Nosso grupo é composto por Hellen Gabriela Scarantti, Paulo Henrique André e Vitor Eduardo Eleoterio. 
+
