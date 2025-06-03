@@ -32,7 +32,7 @@ Siga os passos abaixo para executar o projeto em sua máquina local:
 
 1. **Clone o repositório**
 
-git clone https://github.com/seu-usuario/taskflow.git
+   git clone https://github.com/seu-usuario/taskflow.git
 
 
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
