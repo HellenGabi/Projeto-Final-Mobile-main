@@ -50,23 +50,27 @@ Abra o terminal e digite:
 ```
 
 2. **Acesse a pasta do projeto**
+
 ```bash
 cd https://github.com/HellenGabi/Projeto-Final-Mobile-main.git
 ```
 
 3. **Abra o VS Code**
+
 No terminal, digite:
 ```bash
 code .
 ```
 
 4. **Instalar as dependências**
+
 Ainda no terminal, digite:
 ```bash
 flutter pub get
 ```
 
 5. **Executar o aplicativo**
+
 Conecte um emulador ou dispositivo físico, e rode o app com:
 ```bash
 flutter run
