@@ -88,3 +88,6 @@ https://github.com/paulin3423
 *  **Vitor Eduardo Eleoterio**
 https://github.com/SGA-OKC
 
+== 🙏 Agradecimentos
+Agradecemos ao Prof. Matheus Quost por ajudar nos a desenvolver o projeto Final feito na Unidade Curricular de Desenvolvimento de Aplicativos Mobile. Onde foi proposto uma criação de um app Flutter com Dart, podendo escolher os temas propostos pelo professor, escolhemos fazer um app de Organizador de Estudos, contendo Tela de Login, Cadastro, Principal/Mural, Atividades, Detalhes da Atividades e Pessoas.
+
