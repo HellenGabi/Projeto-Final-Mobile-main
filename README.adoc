@@ -45,6 +45,7 @@ Abra o terminal e digite:
 No terminal, digite:
 
    code .
+
 4. **Instalar as dependências**
 
 Ainda no terminal, digite:
