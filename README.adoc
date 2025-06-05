@@ -29,13 +29,14 @@ image::uhul.gif[Exemplo de GIF]
 
 == 📚 **Dependências**
 
-* videos no youtube
-
-* documentacao flutter
-
-* rei do TI(jian)
-
-* o astro(juscelino)
+  * sdk: flutter
+  * supabase_flutter: ^2.9.0
+  * shared_preferences: ^2.2.2
+  * table_calendar: ^3.0.9
+  * cupertino_icons: ^1.0.8
+  * flutter_secure_storage: ^9.2.4
+  * flutter_lints: ^4.0.0
+  * cloud_firestore: ^4.17.5
 
 == 🎮 **Como Executar**
 Para instalação do projeto é obrigatório ter o Flutter SDK e VSCode e suas extensões, como o Flutter e o Dart.
