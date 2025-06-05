@@ -38,7 +38,7 @@ Abra o terminal e digite:
 
 2. **Acesse a pasta do projeto**
 
-cd https://github.com/HellenGabi/Projeto-Final-Mobile-main.git
+  cd https://github.com/HellenGabi/Projeto-Final-Mobile-main.git
 
 3. **Abra o VS Code**
 
