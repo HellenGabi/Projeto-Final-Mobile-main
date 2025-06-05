@@ -44,34 +44,33 @@ Siga os passos abaixo para executar o projeto em sua máquina local:
 
 1. **Clone o repositório**
 
-Abra o terminal e digite: 
-
+Abra o terminal e digite:
 ```bash
   https://github.com/HellenGabi/Projeto-Final-Mobile-main.git
 ```
 
 2. **Acesse a pasta do projeto**
-
 ```bash
 cd https://github.com/HellenGabi/Projeto-Final-Mobile-main.git
+```
 
 3. **Abra o VS Code**
-
 No terminal, digite:
-
+```bash
 code .
+```
 
- 4. **Instalar as dependências**
-
+4. **Instalar as dependências**
 Ainda no terminal, digite:
+```bash
+flutter pub get
+```
 
-  flutter pub get
-
- 5. **Executar o aplicativo**
-
+5. **Executar o aplicativo**
 Conecte um emulador ou dispositivo físico, e rode o app com:
-
-  flutter run
+```bash
+flutter run
+```
 
 == 🫱🏾‍🫲🏿 Integrantes do Projeto
 Nosso grupo é composto por: 
