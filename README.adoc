@@ -1,5 +1,4 @@
-image::uhul.gif[Exemplo de GIF] 
-AULAJAJA
+= 📝 AULAJAJA
 :icons: font
 :toc: left
 :toclevels: 2
