@@ -27,6 +27,16 @@ Nosso protótipo é composto pelas seguintes telas:
 == 📱 **Screenshots**
 image::uhul.gif[Exemplo de GIF]
 
+== 📚 **Dependências**
+
+* videos no youtube
+
+* documentacao flutter
+
+* rei do TI(jian)
+
+* o astro(juscelino)
+
 == 🎮 **Como Executar**
 Siga os passos abaixo para executar o projeto em sua máquina local:
 
