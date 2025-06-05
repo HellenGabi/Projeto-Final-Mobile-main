@@ -38,6 +38,8 @@ image::uhul.gif[Exemplo de GIF]
 * o astro(juscelino)
 
 == 🎮 **Como Executar**
+Para instalação do projeto é obrigatório ter o Flutter SDK e VSCode e suas extensões, como o Flutter e o Dart.
+
 Siga os passos abaixo para executar o projeto em sua máquina local:
 
 1. **Clone o repositório**
