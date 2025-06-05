@@ -1,6 +1,6 @@
 = 📓 AULAJAJA 
 
-image::uhul.gif[Exemplo de GIF]
+image:logo-aulajaja.png[Exemplo de GIF]
 
 :icons: font
 :toc: left
